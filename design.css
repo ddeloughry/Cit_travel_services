@@ -1,12 +1,29 @@
-body{
+body {
     background-color: crimson;
 }
-form{
+
+form {
     background-color: white;
 }
-h1,h2{
+
+h1, h2 {
     color: white;
+    text-align: center;
 }
-a{
+
+a {
     color: lawngreen;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+form {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
