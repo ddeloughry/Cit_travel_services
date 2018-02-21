@@ -27,3 +27,9 @@ form {
     margin-right: auto;
     text-align: center;
 }
+
+div.image_box {
+    display: block;
+    border: 5px solid black;
+
+}
